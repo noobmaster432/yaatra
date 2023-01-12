@@ -13,8 +13,8 @@ import Link from "next/link";
 
 export default function Home({ exploreData, cardsData, properties }) {
 
-  const formattedStartDate = format(new Date(), "yyyy-dd-mm");
-  const formattedEndDate = format(new Date(), "yyyy-dd-mm");
+  const formattedStartDate = format(new Date(), "yyyy-MM-dd");
+  const formattedEndDate = format(new Date(), "yyyy-MM-dd");
 
   return (
     <div>
