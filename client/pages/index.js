@@ -28,9 +28,9 @@ export default function Home({ exploreData, cardsData, properties }) {
       <Header />
       <Banner />
 
-      <main className="max-w-7xl mx-auto px-8 md:px-16" id="Box">
+      <main className="max-w-7xl mx-auto px-8 md:px-16">
         {properties && (
-          <div className="flex flex-row">
+          <div className="flex flex-row" id="Box">
             <div className="pt-6">
               <h1 className="sm:text-4xl text-2xl font-semibold pb-5">
                 Try Visiting our Top rated Places

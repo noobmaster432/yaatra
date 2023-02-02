@@ -78,7 +78,6 @@ const header = ({placeholder}) => {
       {/* Right  */}
       <div className="items-center justify-end space-x-2 text-gray-500 hidden xs:inline-flex ml-2">
         <p
-          onClick={() => router.push("/#beHost")}
           className="hidden lg:inline cursor-pointer hover:bg-gray-100 rounded-full py-2 px-3 hover:text-gray-600 font-semibold text-zinc-600 text-sm"
         >
           Airbnb your home

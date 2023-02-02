@@ -7,3 +7,15 @@
     @apply px-4 py-2 border rounded-full cursor-pointer hover:shadow-lg shadow-sm active:scale-95 active:bg-gray-100 transition transform duration-100 ease-out;
   }
 }
+html {
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  width: 0.625rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f87171; 
+  background: linear-gradient(144deg, #f87171 30%, #e06262);
+  border-radius: 0.625rem;
+}
