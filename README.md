@@ -1,6 +1,6 @@
-# Airbnb Clone
+# Yaatra
 
-An Airbnb clone project built using Next.js. It includes features such as a date and calendar booking functionality, a fast search functionality, UI/UX design with Tailwind CSS and Chakra UI, Mapbox integration for listing locations, and a backend with data relationships defined by Schemas and Types that can be managed using Sanity Studio.
+Yaatra, an Airbnb clone built using Next.js. It includes features such as a date and calendar booking functionality, a fast search functionality, UI/UX design with Tailwind CSS and Chakra UI, Mapbox integration for listing locations, and a backend with data relationships defined by Schemas and Types that can be managed using Sanity Studio.
 
 ### [Demo](https://airbnb-clone-silk-alpha.vercel.app/)
 
